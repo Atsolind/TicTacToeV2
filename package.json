@@ -1,7 +1,7 @@
 {
   "name": "vanilla",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "./node_modules/parcel-bundler/bin/cli.js index.html --port 8080",
@@ -15,5 +15,5 @@
     "@babel/core": "7.2.0",
     "parcel-bundler": "^1.6.1"
   },
-  "keywords": ["javascript", "starter"]
+  "keywords": []
 }
